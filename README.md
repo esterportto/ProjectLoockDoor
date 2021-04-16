@@ -13,7 +13,7 @@ Orçamento:![enter image description here](https://github.com/esterportto/Projec
 
 Link Web-Site: https://esterportto.github.io/ProjectLoockDoor/
 
-👩🏻 Intregrantes:
+👩🏻 Integrantes:
 
 Ester Pôrto Guilhem, Bruna Artioli, Mariana Carvalho, Gabriela Casagrande.
 
