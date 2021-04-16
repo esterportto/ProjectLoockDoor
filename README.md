@@ -9,7 +9,7 @@ Sobre Nós:
 ![enter image description here](https://github.com/esterportto/ProjectLoockDoor/blob/main/imagens/Sobre.jpg?raw=true)
 Loja:![enter image description here](https://github.com/esterportto/ProjectLoockDoor/blob/main/imagens/loja.jpg?raw=true)
 Fale Conosco:![enter image description here](https://github.com/esterportto/ProjectLoockDoor/blob/main/imagens/contato.jpg?raw=true)
-Orçamento:![enter image description here](https://github.com/esterportto/ProjectLoockDoor/blob/main/imagens/orcamento.jpg?raw=true)
+Orçamento (Aqui utilizamos Java Script para realizar os cálculos):![enter image description here](https://github.com/esterportto/ProjectLoockDoor/blob/main/imagens/orcamento.jpg?raw=true)
 
 Link Web-Site: https://esterportto.github.io/ProjectLoockDoor/
 
