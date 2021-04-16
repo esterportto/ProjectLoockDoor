@@ -4,10 +4,10 @@ Nosso grupo desenvolveu esse web-site no intuíto de colocar nosso conhecimento 
 
 👩🏻 Intregrantes:
 
-Ester Pôrto Guilhem
-Bruna Artioli
-Mariana Carvalho
-Gabriela Casagrande
+Ester Pôrto Guilhem,
+Bruna Artioli,
+Mariana Carvalho,
+Gabriela Casagrande.
 
 Utilizamos esse site como inspiração:
 https://beluni.com.br/
