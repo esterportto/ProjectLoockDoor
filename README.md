@@ -17,7 +17,6 @@ Link Web-Site: https://esterportto.github.io/ProjectLoockDoor/
 
 Ester Pôrto Guilhem, Bruna Artioli, Mariana Carvalho, Gabriela Casagrande.
 
-Utilizamos esse site como inspiração:  [https://beluni.com.br/](https://beluni.com.br/)
 
 ⚙  Tecnologias
 
